@@ -4,6 +4,7 @@ import CuentaRegresiva from "./components/CuentaRegresiva/CuentaRegresiva.jsx";
 import Ubicacion from "./components/Ubicacion/Ubicacion.jsx"
 import Fotos from "./components/Fotos/Fotos.jsx"
 import ConfirmarAsistencia from "./components/ConfirmarAsistencia/ConfirmarAsistencia"
+import Footer from "./components/Footer/Footer.jsx"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Ubicacion />
       <Fotos />
       <ConfirmarAsistencia />
+      <Footer />
     </>
   );
 }
