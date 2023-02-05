@@ -44,6 +44,10 @@
     position: absolute;
     top: 50%;
     font-size: 50px;
+    color: #ffbe00;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0),
+               6px 6px 5px rgb(0, 0, 0),
+               9px 9px 5px rgb(0, 0, 0);
 }
 .title-container{
     display:  flex;
@@ -54,4 +58,8 @@
     position: absolute;
     top: 60%;
     font-size: 50px;
+    color: #ffbe00;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0),
+               6px 6px 5px rgb(0, 0, 0),
+               9px 9px 5px rgb(0, 0, 0);
 }
