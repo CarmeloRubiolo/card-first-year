@@ -9,8 +9,9 @@
     justify-content: center;
 }
 .card-container{
-    position: absolute;
-    top: 1100px;
+    margin-top: 70px;;
+    position: relative;
+    height: 50vh;
     border: 2px solid black;
 }
 .btn-mapa{

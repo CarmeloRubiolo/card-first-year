@@ -2,6 +2,7 @@ import React from 'react';
 import Portada from "./components/Portada/Portada";
 import CuentaRegresiva from "./components/CuentaRegresiva/CuentaRegresiva.jsx";
 import Ubicacion from "./components/Ubicacion/Ubicacion.jsx"
+import Fotos from "./components/Fotos/Fotos.jsx"
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Portada />
       <CuentaRegresiva />
       <Ubicacion />
+      <Fotos />
     </>
   );
 }
